@@ -15,6 +15,3 @@
   </p>
 </div>
 
-![Screenshot (61)](https://github.com/marjanmokhtari/tic-tac-toe/assets/143844652/798abb8f-08c5-44be-a6a2-527c03120b5d)
-
-https://github.com/marjanmokhtari/tic-tac-toe/assets/143844652/8bea3f28-b1d8-48ca-9f58-12f7adffd372
